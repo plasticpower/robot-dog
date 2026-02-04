@@ -12,5 +12,4 @@ Work in progress quadrupedal robot
 - Object avoidance
 - Remote control
 - Driver board cooling
-- More organic movements
-  
+- More movements such as lateral movement, turning and all the inbetween
